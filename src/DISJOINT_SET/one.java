@@ -177,5 +177,7 @@ public class one {
         String[] input2 = {"ACK 0 1", "ACK 1 2", "ACK 2 3", "ACK 3 4"};
         String[] input3 = {"ACK 0 1", "ACK 1 2", "DIS 2 0"};
         String[] input4 = {"DIS 0 1", "ACK 1 2", "ACK 1 4", "DIS 4 3", "DIS 5 6", "ACK 5 7"};
+        // 같을 때 다를 때 수정해서 명령어 입력해주기
+        System.out.println("github in jeju");
     }
 }
